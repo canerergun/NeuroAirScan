@@ -1,0 +1,31 @@
+# Model dosyaları
+*.pt
+
+# Video, görsel ve medya dosyaları
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Roboflow veya başka gizli bilgiler
+.env
+apikey.txt
+
+# Python geçici klasörleri
+__pycache__/
+*.py[cod]
+*.so
+
+# YOLOv8 çıktıları
+runs/
+
+# IDE klasörleri
+.vscode/
+.idea/
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db

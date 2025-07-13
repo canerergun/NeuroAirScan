@@ -1,0 +1,4 @@
+train: train/images
+val: train/images  # validation için aynı klasörü göster
+nc: 1
+names: ['Jet']
